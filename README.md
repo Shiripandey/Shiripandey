@@ -49,16 +49,6 @@
 
 ---
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-    <ul>
-        <li><strong>Chat Application:</strong> Built with Express, MongoDB, and Socket.io, featuring real-time chatting and JWT authentication.</li>
-        <li><strong>Social Media Analytics Dashboard:</strong> Developed using React and Spring Boot to analyze and display social media posts.</li>
-        <li><strong>Online Text Editor:</strong> A project with various formatting options using HTML, CSS, and JavaScript.</li>
-    </ul>
-</p>
-
----
 
 <h3 align="left">Looking Forward To:</h3>
 <p align="left">
@@ -68,3 +58,19 @@
 </p>
 
 ---
+
+<h3 align="center">🔥 GitHub Stats:</h3>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiripandey&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiripandey&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
+</p>
+
+---
+
+<h3 align="center">✨ Let's build something amazing together!</h3>
