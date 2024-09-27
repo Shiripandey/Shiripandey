@@ -50,21 +50,7 @@
 
 ---
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-    <ul>
-        <li><strong>Chat Application:</strong> Built with Express, MongoDB, and Socket.io, featuring real-time chatting and JWT authentication.</li>
-        <li><strong>Social Media Analytics Dashboard:</strong> Developed using React and Spring Boot to analyze and display social media posts.</li>
-        <li><strong>Online Text Editor:</strong> A project with various formatting options using HTML, CSS, and JavaScript.</li>
-    </ul>
-</p>
 
----
-
-<h3 align="left">Total Contributions:</h3>
-<p align="left">
-    <img src="https://activity-graph.herokuapp.com/graph?username=pandeyshreeya3&theme=react-dark" alt="Total Contributions" />
-</p>
 
 ---
 
